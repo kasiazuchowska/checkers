@@ -1,0 +1,64 @@
+﻿  warcaby.cpp
+C:\Users\kasia\grafika\warcaby\warcaby\warcaby.cpp(32,8): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kasia\grafika\warcaby\warcaby\warcaby.cpp(33,8): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kasia\grafika\warcaby\warcaby\warcaby.cpp(41,15): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kasia\grafika\warcaby\warcaby\warcaby.cpp(42,15): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kasia\grafika\warcaby\warcaby\warcaby.cpp(47,16): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kasia\grafika\warcaby\warcaby\warcaby.cpp(48,16): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kasia\grafika\warcaby\warcaby\warcaby.cpp(50,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kasia\grafika\warcaby\warcaby\warcaby.cpp(51,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kasia\grafika\warcaby\warcaby\warcaby.cpp(73,8): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kasia\grafika\warcaby\warcaby\warcaby.cpp(74,8): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kasia\grafika\warcaby\warcaby\warcaby.cpp(86,30): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kasia\grafika\warcaby\warcaby\warcaby.cpp(87,30): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  warcaby.vcxproj -> C:\Users\kasia\grafika\warcaby\x64\Debug\warcaby.exe
+  C:\Users\kasia\grafika\warcaby\packages\SFML-cpp.redist.2.5.1.1\build\native\bin\x64\Debug\openal32.dll
+  1 File(s) copied
